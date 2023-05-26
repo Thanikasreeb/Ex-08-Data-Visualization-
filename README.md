@@ -20,7 +20,8 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
-NAME:Thanika sree K REGISTER NUMBER:212222100055
+NAME:Thanika sree B
+REGISTER NUMBER:212222100055
 ```
 # DATA:
 
