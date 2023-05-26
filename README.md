@@ -1,4 +1,4 @@
-# Ex-07-Data-Visualization-
+# Ex-08-Data-Visualization-
 
 ## AIM
 
@@ -135,6 +135,7 @@ plt.show()
 
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/f204d717-6a35-42e4-b0c7-7f43e2ad1ef7)
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/8e4533f6-42a3-4af7-bf5d-5f12a78ce42e)
+
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/76e1ffe8-169a-494a-b37e-8d430eda8696)
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/4f6b2354-2afe-4db4-9ee1-be18d041f9b5)
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/b1dbf67f-8890-4f3d-bd77-00e4cae44964)
@@ -151,7 +152,9 @@ plt.show()
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/6d4ceb36-4281-4ab2-8f4c-c2b8959b5ad2)
 
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/e3929888-be9b-4f57-9fca-080f025f7259)
+
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/329e4ced-96ef-4260-90aa-ff670b9d81e6)
+
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/a993fa5e-8f4d-4b6e-a468-aa6f6deec1ee)
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/5b61ba9a-f92b-4f9b-85d0-ee5f9f678a1e)
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/26ba686a-ba87-4712-be87-ace3870d725c)
