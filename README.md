@@ -147,6 +147,7 @@ plt.show()
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/25303bb7-8c0b-4991-8b6d-f2b0a4bee8d5)
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/b9713ba8-3434-41b7-9896-4dcabb6c9162)
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/a5aeef49-6e53-4ff7-aefc-35fd3977e9e8)
+
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/77d609ce-9ba2-4f7d-a629-5e290e1ff562)
 
 ![image](https://github.com/Thanikasreeb/Ex-08-Data-Visualization-/assets/119557910/6d4ceb36-4281-4ab2-8f4c-c2b8959b5ad2)
